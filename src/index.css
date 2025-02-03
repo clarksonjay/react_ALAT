@@ -31,14 +31,12 @@ body{
 }
 
 .intro h3{
-  font-size: 18px;
-  font-weight: 600;
+  font: 18px 600;
   margin-bottom: 10px;
 }
 
 .intro p{
-  font-size: 14px;
-  font-weight: 300;
+  font: 14px 300; 
   color: rgba(255, 255, 255, .7);
   margin-top: 5px;
 }
