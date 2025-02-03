@@ -1,7 +1,7 @@
 import logo  from './assets/logo.png'
 import coatOfArm from './assets/coat_of_arm.png'
 
-function Login(){
+const Login = () =>{
 
   const styles = {
     width: "35px",
