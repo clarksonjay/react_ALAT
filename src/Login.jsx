@@ -36,12 +36,12 @@ function Login(){
 
           <div className="input-box">
             <p>Email Address/Username</p>
-            <input type="email" required autocomplete='on' />
+            <input type="email" required autoComplete='on' />
           </div>
 
           <div className="input-box">
             <p>Password <a href="#">Forgot password?</a></p>
-            <input type="password" required autocomplete='on'/>
+            <input type="password" required autoComplete='on'/>
           </div>
 
           <button className="btn">Login</button>
