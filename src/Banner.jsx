@@ -10,10 +10,10 @@ const Banner = ()=>{
         </div>
 
         <div className="icon">
-          <i className="fa-solid fa-envelope me-2"></i>
+          <i className="fa-solid fa-envelope"></i>
           <a href="#">help&#64;alat.ng</a>
 
-          <i className='bx bxs-phone-call me-2'></i><span>070022552528</span>
+          <i className='bx bxs-phone-call'></i><span>070022552528</span>
         </div>
 
         <div className="social-links">
